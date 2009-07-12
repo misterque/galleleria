@@ -1,0 +1,40 @@
+<albums>
+  <album>
+    <artist>Placebo</artist>
+    <album_name>Black Market Music</album_name>
+    <playlist>placebo_black_market_music.m3u</playlist>
+    <front>placebo_black_market_music.jpg</front>
+    <back>placebo_black_market_music_back.jpg</back>
+  </album>
+  <album>
+    <artist>Placebo</artist>
+    <album_name>Sleeping With Ghosts</album_name>
+    <playlist>placebo_sleeping_with_ghosts.m3u</playlist>
+    <front>placebo_sleeping_with_ghosts.jpg</front>
+    <back>placebo_sleeping_with_ghosts_back.jpg</back>
+  </album>
+  <album>
+    <artist>Rammstein</artist>
+    <album_name>Reise Reise</album_name>
+    <playlist>rammstein_reise.m3u</playlist>
+    <front>rammstein_reise.jpg</front>
+    <back>rammstein_reise_back.jpg</back>
+  </album>
+  <album>
+    <artist>Flogging Molly</artist>
+    <album_name>Within A Mile Of Home</album_name>
+    <playlist>flogging_molly_within_a_mile_of_home.m3u</playlist>
+    <front>flogging_molly_within_a_mile_of_home.jpg</front>
+    <back>flogging_molly_within_a_mile_of_home.jpg</back>
+  </album>
+  <album>
+    <artist>Modest Mouse</artist>
+    <album_name>Good News For People Who Love Bad News</album_name>
+    <playlist>modest_mouse_gnfphlbn.m3u</playlist>
+    <front>modest_mouse_gnfphlbn.jpg</front>
+    <back>modest_mouse_gnfphlbn_back.jpg</back>
+  </album>
+
+
+
+</albums>
